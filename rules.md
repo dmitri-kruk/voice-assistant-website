@@ -48,6 +48,11 @@
 - **Absolute Paths:** Always use absolute paths for file operations.
 - **Conciseness:** Keep artifacts and user messages focused and actionable.
 
+### 4.5 Deployment
+- **Platform:** GitHub Pages.
+- **Workflow:** Commit to `main` branch triggers automatic deployment.
+- **Command:** `git add .` -> `git commit -m "..."` -> `git push`.
+
 ## 5. Common Pitfalls to Avoid
 1.  **Ignoring "Air":** Don't reduce padding. The design relies on whitespace.
 2.  **Hardcoding Text:** All user-facing text must go through `translations.js`.

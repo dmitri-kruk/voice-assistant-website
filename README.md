@@ -45,12 +45,26 @@ AI_Voice_Assistant_Website/
 2.  **Open `index.html`** in your browser to view the landing page.
 3.  **No build step required.** This is a static site.
 
-## � Development Guidelines
+## ✍️ Development Guidelines
 
 1.  **Task Management:** Always check `task.md` before starting work.
 2.  **Design:** Refer to `DESIGN_SYSTEM.md` for colors, spacing, and components.
 3.  **Content:** All text must be added to `js/translations.js` to support internationalization.
 4.  **Icons:** Use SVGs from Lucide or similar clean sets. **Do not use emojis.**
+
+## 🚀 Deployment & Updates
+
+The site is hosted on **GitHub Pages**.
+
+To update the live site:
+1.  Make changes to the code.
+2.  Run the following commands in the terminal:
+    ```bash
+    git add .
+    git commit -m "Description of changes"
+    git push
+    ```
+3.  The site will automatically update within a few minutes at [https://dmitri-kruk.github.io/voice-assistant-website/](https://dmitri-kruk.github.io/voice-assistant-website/).
 
 ## 📄 License
 
