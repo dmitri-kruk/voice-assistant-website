@@ -1,7 +1,7 @@
-# VoiceTask AI Project Rules & Guidelines
+# Sonera AI Project Rules & Guidelines
 
 ## 1. Project Overview
-**Product:** VoiceTask AI — An AI voice assistant for automating phone calls (appointments, reservations, inquiries).
+**Product:** Sonera AI — An AI voice assistant for automating phone calls (appointments, reservations, inquiries).
 **Target Audience:** Polish market, specifically busy professionals and migrants (language barrier).
 **Key Value:** "Solve any issue over the phone in 2 minutes without knowing Polish."
 

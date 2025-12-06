@@ -1,6 +1,6 @@
-# VoiceTask AI - Landing Page
+# Sonera AI - Landing Page
 
-**VoiceTask AI** is an AI-powered voice assistant designed to help busy individuals and migrants in Poland solve everyday tasks over the phone without language barriers.
+**Sonera AI** is an AI-powered voice assistant designed to help busy individuals and migrants in Poland solve everyday tasks over the phone without language barriers.
 
 This repository contains the **Landing Page** for the project, designed to convert visitors into waitlist subscribers.
 

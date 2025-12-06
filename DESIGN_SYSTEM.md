@@ -1,4 +1,4 @@
-# VoiceTask AI Design System & Guidelines
+# Sonera AI Design System & Guidelines
 
 ## 1. Introduction & Philosophy
 **Aesthetic:** "Cal.com" Style — Minimalist, Monochrome, Premium, Content-First.
